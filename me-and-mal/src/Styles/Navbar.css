@@ -1,0 +1,34 @@
+.primary_header {
+    display: flex;
+    align-items: center;
+    padding-top: 15vh;
+    padding-bottom: 10vh;
+    padding-left: 5vw;
+    background-color: rgba(255,255,255,.5);
+}
+
+.title {
+    /*height: 100vh;*/
+    text-align: left;
+    color: black;
+    font-size: 6.5vw;
+}
+
+#mitski_photo {
+    width: 25vw;
+    margin-left: 8vw;
+    border-radius: 15px;
+}
+
+.secondary_header {
+    display: flex;
+    background-color: rgba(0, 0 ,0, .55);
+    color: white;
+}
+
+.secondary_header div {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 2vw;
+}
+
